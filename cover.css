@@ -1,0 +1,18 @@
+body {
+  background-color: #000;
+}
+
+h1 {
+  color: #fff;
+}
+p{
+  color: #fff;
+}
+img{
+  color: #fff;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
